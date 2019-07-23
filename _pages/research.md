@@ -11,13 +11,13 @@ class: wide
 ---
 
 
-## Working papers
+### Working papers
 
-"The Effect of paid paternity leave on paternal involvement and lebor market outcomes"
+"The Effect of paid paternity leave on paternal involvement and labor market outcomes"
 
 "Borrowing Constraints in Savings Groups" With Alfredo Burlando and Jessica Goldberg
 
 
-## Work in Progress
+### Work in Progress
 
 "Do brighter street lights reduce crime?: The case of Binghamton, NY" With Carlos Díaz
