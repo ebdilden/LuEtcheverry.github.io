@@ -1,9 +1,9 @@
 main:
 
-  - title: "Research"
+  - title: Research
      url: https://LuEtcheverry.github.io/_pages/research/
      
-  - title: "Teaching"
+  - title: Teaching
      url: https://LuEtcheverry.github.io/_pages/teaching/
  
   # - title: "CV"
