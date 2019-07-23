@@ -11,14 +11,14 @@ class: wide
 ---
 
 
-## Independent Instructor
+### Independent Instructor
 
-EC 350: Issues in Labor Economics (Spring 2019)
+EC 350: Issues in Labor Economics (Spring 2019) [*Syllabus*](../images/EC350Syllabus.pdf)
 
 EC 421: Introduction to Econometrics (Fall 2019)
 
 
-## Discussion Leader/ Teaching Assistant
+### Discussion Leader/ Teaching Assistant
 
 EC 201: Principles of Microeconomics (Winter 2017)
 

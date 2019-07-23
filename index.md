@@ -1,6 +1,6 @@
 ---
 layout: home
-author_profile: false
+author_profile: true
 ---
 <!-- <img class="img-responsive" style="float: left;margin-right: 25px;" src="/images/HeadShot.jpg"> --> 
 
