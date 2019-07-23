@@ -1,0 +1,15 @@
+# main links
+main:
+  - title: "Research"
+     url: https://LuEtcheverry.github.io/_pages/research/
+  - title: "Teaching"
+     url: https://LuEtcheverry.github.io/_pages/teaching/
+ 
+  # - title: "CV"
+  #   url: https://mmistakes.github.io/images/doc/CV.pdf
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
