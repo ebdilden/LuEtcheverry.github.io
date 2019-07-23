@@ -32,11 +32,11 @@ include                  : ["_pages"]
 search                   : false # true, false (default)
 search_full_content      : true # true, false (default)
 search_provider          : "lunr"
-algolia:
-  application_id         : "I8M6E9IFII"
-  index_name             : "dev_minimal-mistakes"
-  search_only_api_key    : "6b32bbb83a1a9a87fdaef30095f49fd4"
-  powered_by             : true
+#algolia:
+#  application_id         : "I8M6E9IFII"
+#  index_name             : "dev_minimal-mistakes"
+#  search_only_api_key    : "6b32bbb83a1a9a87fdaef30095f49fd4"
+#  powered_by             : true
 
 # Social Sharing
 twitter:
