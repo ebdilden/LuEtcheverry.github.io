@@ -10,11 +10,14 @@ class: wide
  # overlay_image: ../images/Research_splash.jpg
 ---
 
+
 ## Working papers
 
-"Effect of paid paternity leave on paternal involvement and lebor market outcomes"
-"Borrowing Constraints in Savings Groups" with Alfredo Burlando and Jessica Goldberg
+"The Effect of paid paternity leave on paternal involvement and lebor market outcomes"
+
+"Borrowing Constraints in Savings Groups" With Alfredo Burlando and Jessica Goldberg
 
 
 ## Work in Progress
-"Do brighter street lights reduce crime?: The case of Binghamton, NY" with Carlos Díaz
+
+"Do brighter street lights reduce crime?: The case of Binghamton, NY" With Carlos Díaz
