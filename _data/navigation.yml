@@ -6,9 +6,10 @@ main:
   - title: Teaching
     url: https://luetcheverry.github.io/_pages/teaching/
  
-  # - title: "CV"
-  #   url: https://mmistakes.github.io/images/doc/CV.pdf
-  # - title: "Sample Posts"
+  - title: "CV"
+    url: https://mmistakes.github.io/images/CV_919.pdf
+ 
+ # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
